@@ -12,7 +12,7 @@ class Person {
 }
 
 // Create an instance of the 'Person' class
-const person = new Person("John");
+const person = new Person("John Doe");
 
 // Call the 'greet' method
 person.greet();
